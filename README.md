@@ -14,7 +14,7 @@ Uma calculadora funcional com layout estilizado e operações básicas:
 📂 Arquivo: `calculadora.html`  
 📷 **Preview**:
 
-![Calculadora](https://github.com/marialuisamatos/Praticas-de-Programacao-Forma-Divertida/tree/main/Calculadora)
+![Calculadora](./prints/calculadora.png)
 
 ---
 
