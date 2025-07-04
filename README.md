@@ -14,7 +14,7 @@ Uma calculadora funcional com layout estilizado e operações básicas:
 📂 Arquivo: `calculadora.html`  
 📷 **Preview**:
 
-![Calculadora](./prints/calculadora.png)
+![Calculadora](https://github.com/marialuisamatos/Praticas-de-Programacao-Forma-Divertida/tree/main/Calculadora)
 
 ---
 
@@ -30,7 +30,7 @@ Reorganize os números de 1 a 8 em ordem crescente arrastando as peças:
 
 📷 **Preview**:
 
-![Puzzle](./prints/puzzle.png)
+![Puzzle](https://github.com/marialuisamatos/Praticas-de-Programacao-Forma-Divertida/tree/main/Purzzle%20(Sudoku))
 
 ---
 
@@ -47,7 +47,7 @@ Um jogo onde um número secreto é definido e o outro jogador precisa adivinhar:
 
 📷 **Preview**:
 
-![Adivinhação](./prints/adivinhacao.png)
+![Adivinhação](https://github.com/marialuisamatos/Praticas-de-Programacao-Forma-Divertida/tree/main/Jogo%20da%20Advinha%C3%A7%C3%A3o)
 
 ---
 
@@ -55,3 +55,7 @@ Um jogo onde um número secreto é definido e o outro jogador precisa adivinhar:
 
 Você pode abrir qualquer um dos arquivos `.html` no seu navegador favorito.  
 Se quiser clonar o repositório e testar localmente:
+```bash
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/marialuisamatos/Praticas-de-Programacao-Forma-Divertida.git)
+cd seu-repositorio
+start calculadora.html  # ou index.html de cada jogo
