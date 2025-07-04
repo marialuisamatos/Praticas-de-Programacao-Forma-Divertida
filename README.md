@@ -56,6 +56,6 @@ Um jogo onde um número secreto é definido e o outro jogador precisa adivinhar:
 Você pode abrir qualquer um dos arquivos `.html` no seu navegador favorito.  
 Se quiser clonar o repositório e testar localmente:
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/marialuisamatos/Praticas-de-Programacao-Forma-Divertida.git)
-cd seu-repositorio
-start calculadora.html  # ou index.html de cada jogo
+git clone https://github.com/marialuisamatos/Praticas-de-Programacao-Forma-Divertida.git
+cd Praticas-de-Programacao-Forma-Divertida
+start calculadora.html  # ou index.html, dependendo do jogo
